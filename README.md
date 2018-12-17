@@ -1,11 +1,17 @@
 # zvsample
-Demonstration Web Application for ZeroDown Software / ZeroNines Technology Partners
+Demonstration Web Application for ZeroDown Software / ZeroNines Technology Partners for Azure Stack
+
+The tar file is too big for GitHub.  To download the package, issue the following command from the Ubuntu Server
 
 Environment:
 - Ubnuntu 16.04 LTS Operating System
 - Internet Access
 
 Download the zvsample-ASDK-build.tar.gz file
+
+wget http://www.zerodownsoftware.com/download02/zvsample-ASDK-build.tar.gz
+
+
 
 Unpack the file:  
 
