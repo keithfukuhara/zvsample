@@ -9,9 +9,7 @@ Environment:
 
 Download the zvsample-ASDK-build.tar.gz file
 
-wget http://www.zerodownsoftware.com/download02/zvsample-ASDK-build.tar.gz
-
-
+wget http://downloads.zerodownsoftware.com/zvsampled/zvsample-ASDK-build.tar.gz
 
 Unpack the file:  
 
