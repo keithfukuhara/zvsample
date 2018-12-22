@@ -20,7 +20,8 @@ sudo ./install.sh
 
 The Installation Script installs the zvsample application into the Ubuntu Server.  To start and stop the services,
 the command:
-zvsample {start | stop | restart | status}
+
+sudo zvsample {start | stop | restart | status}
 
 Application is accessed via port 8080, therefore, port 8080 needs to be opened to this deployment.
 
