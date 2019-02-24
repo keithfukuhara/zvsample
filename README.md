@@ -1,5 +1,5 @@
 # zvsample
-Demonstration Web Application for ZeroDown Software / ZeroNines Technology Partners for Azure Stack
+Demonstration Web Application for ZeroDown Software / ZeroNines Technology Partners 
 
 Environment:
 - Ubnuntu 16.04 LTS Operating System
