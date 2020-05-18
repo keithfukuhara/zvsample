@@ -9,11 +9,11 @@ Environment:
 
 The tar file is too big for GitHub.  To download the package, issue the following command from the Ubuntu Server
 
-wget http://downloads.zerodownsoftware.com/zvsampled/zvsample-ASDK-build.tar.gz
+wget http://downloads.zerodownsoftware.com/zvsampled/zvsample-build.tar.gz
 
 Unpack the file:  
 
-tar xvzf zvsample-ASDK-build.tar.gz
+tar xvzf zvsample-build.tar.gz
 
 Run the Installation Script from elevated permissions
 
