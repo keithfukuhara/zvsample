@@ -2,7 +2,7 @@
 Demonstration Web Application for ZeroDown Software / ZeroNines Technology Partners 
 
 Environment:
-- Ubnuntu 16.04 LTS Operating System
+- Ubnuntu 16.04 LTS and 18.04 LTS Operating Systems
 - Internet Access
 
   . Enpoint Port 8080 open
@@ -31,3 +31,7 @@ Authentication to Demo Account:   demo@demo.com/demo1234
 Encryption Phrase:  1234
 
 Restarting the software resets all data to the initial state of the image.  All data and changes will be lost.
+
+* History
+
+2020-10-06  Added support for Ubuntu 18.04 LTS
